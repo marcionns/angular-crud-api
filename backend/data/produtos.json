@@ -17,34 +17,50 @@
   },
   {
     "id": 3,
-    "nome": "Headset Gamer",
-    "descricao": "Headset com áudio imersivo e microfone para comunicação.",
-    "categoria": "Eletrônicos",
-    "preco": 389.9,
-    "imagem": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+    "nome": "Controle Tarantula Sem Fio",
+    "descricao": "comando sem fio, taxa de polling de 1000 Hz, layout simétrico para PS5, manípulos TMR, gatilhos de modo duplo, 9 botões de macro, 180 g.",
+    "categoria": "Jogos",
+    "preco": 355.5,
+    "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa1e1704b847f4822b71873e6742318e4o.jpg_220x220q75.jpg_.avif"
   },
   {
     "id": 4,
-    "nome": "Controle Sem Fio",
-    "descricao": "Controle compatível com consoles e dispositivos de forma prática.",
+    "nome": "Controle Tarantula 8K Com Fio",
+    "descricao": "Comando com fio, taxa de polling de 8000 Hz, layout simétrico para PS5, manípulos TMR, gatilhos de modo duplo, 9 botões de macro, 180 g.",
     "categoria": "Jogos",
-    "preco": 249.9,
-    "imagem": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&w=600&q=80"
+    "preco": 455.5,
+    "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf252cc99024844da9c8060471475ab06H.jpg_220x220q75.jpg_.avif"
   },
   {
     "id": 5,
-    "nome": "Teste",
-    "descricao": "Notebook para jogos e produtividade com excelente desempenho.",
-    "categoria": "Eletrônicos",
-    "preco": 5299.9,
-    "imagem": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+    "nome": "iPhone 18 Pro Max 256GB",
+    "descricao": "Tela ProMotion de 6,9 polegadas, câmera Fusion principal de 48MP com abertura variável, maior duração de bateria e chip A20 Pro.",
+    "categoria": "Smartphone",
+    "preco": 13000,
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_915123-MLA116009380962_092026-R.webp"
   },
   {
     "id": 6,
-    "nome": "Notebook Gamer 1788570570146",
-    "descricao": "Notebook para jogos e desenvolvimento.",
-    "categoria": "Eletrônicos",
-    "preco": 3500,
-    "imagem": "https://via.placeholder.com/600x400"
+    "nome": "iPhone Duo",
+    "descricao": "iPhone Duo. A maior tela em um iPhone, fina e dobrável. Ele tem estrutura resistente em titânio e vem com experiências únicas do iOS, sistema de câmera dupla Fusion de 48 MP e chip A20 Pro.",
+    "categoria": "Smartphone",
+    "preco": 19799.9,
+    "imagem": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v7157909147070477485/products/100086007.00.639245921411164876-100086007.00.jpg&width=504&height=504"
+  },
+  {
+    "id": 7,
+    "nome": "Xiaomi Poco X8",
+    "descricao": "Tela ProMotion de 6,9 polegadas, câmera Fusion principal de 48MP com abertura variável, maior duração de bateria e chip A20 Pro.",
+    "categoria": "Smartphone",
+    "preco": 2320,
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_782011-MLA108656131726_032026-R.webp"
+  },
+  {
+    "id": 8,
+    "nome": "Monitor Gamer Asus TUF Gaming",
+    "descricao": "Monitor Gamer Asus TUF Gaming VG279QM5A, 27 Pol, Fast IPS, FHD, 0.3ms, 240Hz, ELMB Sync, HDMI/DP, VG279QM5A",
+    "categoria": "Monitor",
+    "preco": 1099.99,
+    "imagem": "https://media.pichau.com.br/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/v/g/vg279qm5a1552222.jpg"
   }
 ]
